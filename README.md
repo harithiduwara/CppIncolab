@@ -1,6 +1,4 @@
-# CppIncolab
-
-How to code C++ in https://colab.research.google.com/?
+# How to code C++ in https://colab.research.google.com ?
 
 Step 1: Write %%writefile FILENAME.cpp in the firstline of the code block
 
